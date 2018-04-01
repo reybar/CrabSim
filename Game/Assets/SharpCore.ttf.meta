@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2753904aabeb0d542bd74bbd4a785bd4
+timeCreated: 1522355168
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SharpCore
+  fontNames:
+  - SharpCore
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

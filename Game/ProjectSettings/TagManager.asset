@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - Egg
+  - Wave
+  - Urchin
+  - Indicator
+  - Seagull
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Pickups
+  - Player
+  - Stones
+  - Terrain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2878795399
+    locked: 0
+  - name: Stones
+    uniqueID: 3598320321
+    locked: 0
+  - name: Pickups
+    uniqueID: 1027301003
+    locked: 0
+  - name: Player
+    uniqueID: 743460387
+    locked: 0
+  - name: Waves
+    uniqueID: 2285078311
+    locked: 0
+  - name: Sky
+    uniqueID: 2085725225
+    locked: 0
