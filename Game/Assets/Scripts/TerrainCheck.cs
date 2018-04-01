@@ -28,7 +28,7 @@ public class TerrainCheck : MonoBehaviour {
 
     void TerrainChecking() {
         foreach (Transform checker in transform) {
-            bool terrainExist = Physics2D.OverlapCircle(checker.position, 0.1f, whatIsTerrain);
+            bool terrainExist = Physics2D.OverlapCircle(checker.position, 0.5f, whatIsTerrain);
 
             if (!terrainExist && checker.position.y>wave.transform.position.y) {
 
